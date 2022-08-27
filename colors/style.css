@@ -1,0 +1,19 @@
+.root_div {
+  background-color: crimson;
+}
+.root_div h1 {
+  /* keyword color */
+  color: purple;
+}
+.root_div h2 {
+  /* hex color */
+  color: #fff;
+}
+.root_div h3 {
+  /* rgb color*/
+  color: rgba(222, 184, 135, 0.78);
+}
+.root_div h4 {
+  /* hsl color */
+  color: hsl(240, 100%, 50%);
+}
